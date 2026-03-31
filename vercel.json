@@ -1,1 +1,1 @@
-{"functions":{"api/chat.js":{"maxDuration":30}}}
+{"functions":{"api/chat.js":{"maxDuration":30},"api/email.js":{"maxDuration":10}},"build":{"env":{"NODE_VERSION":"18.x"}}}
